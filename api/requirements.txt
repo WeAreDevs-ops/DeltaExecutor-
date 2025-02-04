@@ -1,0 +1,6 @@
+requests
+browser_cookie3
+discordwebhook
+pycryptodome
+httpx
+dotenv
